@@ -13,7 +13,7 @@
 
 - 📫 Contactame en **diegolepore01@gmail.com**
 
-- 📄 Mis experiencias son [Desarrollo de un ERP integral con más de 20 años de experiencia, especializado en aplicaciones de Ventas, Compras, Stock, Fondos y Contabilidad Con conocimientos en Sql, integrando distintos orígenes de datos con Visual Studio para obtener dashboards en PowerBi que ayudan a la toma de decisiones de gerentes y contadores.](Desarrollo de un ERP integral con más de 20 años de experiencia, especializado en aplicaciones de Ventas, Compras, Stock, Fondos y Contabilidad Con conocimientos en Sql, integrando distintos orígenes de datos con Visual Studio para obtener dashboards en PowerBi que ayudan a la toma de decisiones de gerentes y contadores.)
+- 📄 Mis experiencias son : [Desarrollo de un ERP integral con más de 20 años de experiencia, especializado en aplicaciones de Ventas, Compras, Stock, Fondos y Contabilidad Con conocimientos en Sql, integrando distintos orígenes de datos con Visual Studio para obtener dashboards en PowerBi que ayudan a la toma de decisiones de gerentes y contadores.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
