@@ -9,11 +9,11 @@
 
 - 👨‍💻 Mis proyectos estan en [https://github.com/LinxInformatica](https://github.com/LinxInformatica)
 
-- 💬 Tengo conocimientos de **Sql | Java Script | React.js | Redux | Express | Sequelize | Power Bi **
+- 💬 Tengo conocimientos de **Sql | Java Script | React.js | Redux | Express | Sequelize | Power Bi**
 
 - 📫 Contactame en **diegolepore01@gmail.com**
 
-- 📄 Mis experiencias son : [Desarrollo de un ERP integral][Integracion de Datos con Visual Studio][Manejo de Power Bi]
+- 📄 Mis experiencias son : **Desarrollo de un ERP integral | Integracion de Datos con Visual Studio | Manejo de Power Bi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
