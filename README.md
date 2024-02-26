@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Diego Lépore</h1>
-<h3 align="center">Back End Developer con experiencia en desarrollo de ERP</h3>
+<h1 align="center">Hola, mi nombre es Diego Lépore</h1>
+<h3 align="center">Soy Ingeniero en Sistemas, apasionado por la programacion, con 20 años de experiencia en el desarrolo de aplicaciones comerciales-contables, manejo de bases de datos relacionales y estadísticas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linxinformatica&label=Profile%20views&color=0e75b6&style=flat" alt="linxinformatica" /> </p>
 
