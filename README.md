@@ -12,7 +12,7 @@
 
 - 📫 Contactame en **diegolepore01@gmail.com**
 
-- 📄 Mis experiencias son : **Desarrollo de un ERP integral | Integracion de Datos con Visual Studio | Manejo de Power Bi**
+- 📄 Mis experiencias son : **Desarrollo de un ERP integral | Integracion de Datos con Visual Studio | Manejo de Power Bi | Desarrollos de Aplicaciones solicitadas por la curricula de HENRY**
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
