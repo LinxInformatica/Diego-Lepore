@@ -9,7 +9,7 @@
 
 - 👨‍💻 Mis proyectos estan en [https://github.com/LinxInformatica](https://github.com/LinxInformatica)
 
-- 💬 Tengo conocimientos de **Sql,React.js,Redux,Express,Sequelize**
+- 💬 Tengo conocimientos de **Sql | Java Script | React.js | Redux | Express | Sequelize | Power Bi **
 
 - 📫 Contactame en **diegolepore01@gmail.com**
 
